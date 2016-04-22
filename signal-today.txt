@@ -1,0 +1,2 @@
+,Date,symbol,signal,atr,prev_high,prev_low,prev_close
+0,2016-04-22,SPY,-1.0,1.84,210.25,208.649994,208.970001
