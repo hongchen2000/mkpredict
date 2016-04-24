@@ -1,0 +1,2 @@
+Date,symbol,sr,price,stop,profit
+2016-04-22,CPF,s,22.06,0.25,0.2
