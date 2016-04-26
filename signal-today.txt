@@ -1,2 +1,2 @@
-,Date,symbol,signal,atr,prev_high,prev_low,prev_close
-0,2016-04-25,SPY,1.0,1.80,209.289993,207.910004,208.970001
+,Date,symbol,signal,atr,prev_high,prev_low,prev_close,support,supp_count,resistance,resis_count
+0,2016-04-26,SPY,1.0,1.76,208.660004,207.539993,208.610001,207.46,12.0,211.18,5.0
